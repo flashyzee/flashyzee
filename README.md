@@ -50,7 +50,9 @@
                 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
                 <img src=" https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
                 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-                <img src=" " /> <img src=" " /> <img src=" " />  
+                <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
+                <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /> 
+                <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />  
             </ul>
         </section>
         <section>
@@ -68,41 +70,10 @@
         </section>
     </main>
     <footer>
-        <p>Copyright &copy; 2024 Your Name</p>
+        <p>Copyright &copy; 2024 Zion Adedipe </p>
     </footer>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 flashyzee/flashyzee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
