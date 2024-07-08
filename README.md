@@ -33,15 +33,30 @@
 </head>
 <body>
     <header>
-        <h1>Your GitHub Profile</h1>
+        <h1>GitHub Profile</h1>
     </header>
     <main>
         <section>
             <h2>Languages</h2>
             <ul>
-                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
                 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-                <li>Technology 3</li> <img src=" " /> 
+                <img src=" " />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+                <img src=" " /> 
+                <img src=" " /> <img src=" " />
+            </ul>
+        </section>
+
+        <section>
+            <h2>IDE's/Editors</h2>
+            <ul>
+                <img src=" " />
+                <img src=" " />
+                <img src=" " />
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+                <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " />  <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " />
+                
+                
             </ul>
         </section>
         <section>
