@@ -2,10 +2,8 @@
 - 👀 I’m interested in anything related to CyberSecurity ...
 - 🌱 I’m currently learning about everything related to CyberSecurity, IT Audit, and CyberSecurity Audit. etc...
 - 💞️ I’m looking to collaborate with anyone on anything related to the field of CyberSecurity, IT, and Programming Languages. etc ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I know how to speak five languages!
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
+
+<img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -70,7 +68,7 @@
         </section>
     </main>
     <footer>
-        <p>Copyright &copy; 2024 Zion Adedipe </p>
+        <p> &copy; 2024 Zion Adedipe </p>
     </footer>
 </body>
 </html>
