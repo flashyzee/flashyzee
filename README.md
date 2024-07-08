@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning about everything related to CyberSecurity, IT Audit, and CyberSecurity Audit. etc...
 - 💞️ I’m looking to collaborate with anyone on anything related to the field of CyberSecurity, IT, and Programming Languages. etc ...
 
+<p> Want to connect with me? 🔌Click the social icons below! 👇🏾👇🏾 </p>
+
 <a href="mailto: zadedipe@purdue.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -55,7 +57,7 @@
         </section>
         <section>
             <h2>Projects</h2>
-            <p>Here you can list some of your notable projects:</p>
+            <p>Here you can see some of my notable projects:</p>
             <ul>
                 <li><a href="https://github.com/flashyzee/CIT-112">Project 1</a></li>
                 <li><a href="https://github.com/flashyzee/CIT-14000">Project 2</a></li>
