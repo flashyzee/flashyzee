@@ -1,18 +1,22 @@
-<strong> <p>Hi there 👋 </p> </strong>
-
+<h2 style="text-align: left;">
+    <strong>Hi there 👋 </strong> My name is Zion, I'm an IT Technician and a Software Engineer! </h2>
+    
 - 👀 I’m interested in anything related to CyberSecurity ...
 - 🌱 I’m currently learning about everything related to CyberSecurity, IT Audit, and CyberSecurity Audit. etc...
 - 💞️ I’m looking to collaborate with anyone on anything related to the field of CyberSecurity, IT, and Programming Languages. etc ...
 
 <p> Want to connect with me? 🔌Click the social icons below! 👇🏾👇🏾 </p>
-
 <a href="mailto: zadedipe@purdue.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/zion-adedipe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
 </a>
 
-<a href="https://www.linkedin.com/in/zion-adedipe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" height="160" 
+      />
+</div>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -23,6 +27,7 @@
 <body>
     <header>
         <h2>Languages</h2>
+         <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  height="160"  />
         <ul>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
