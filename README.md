@@ -57,14 +57,10 @@
             <h2>Projects</h2>
             <p>Here you can list some of your notable projects:</p>
             <ul>
-                <li><a href="#">Project 1</a></li>
-                <li><a href="#">Project 2</a></li>
-                <li><a href="#">Project 3</a></li>
+                <li><a href="https://github.com/flashyzee/CIT-112">Project 1</a></li>
+                <li><a href="https://github.com/flashyzee/CIT-14000">Project 2</a></li>
+                <li><a href="https://github.com/flashyzee/Python-Projects">Project 3</a></li>
             </ul>
-        </section>
-        <section>
-            <h2>Contact Me</h2>
-            <p>You can reach me via email: yourname@example.com</p>
         </section>
     </main>
     <footer>
