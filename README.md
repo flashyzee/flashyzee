@@ -1,11 +1,10 @@
-
-
-
-
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-
-
+- 👋 Hi, I’m @flashyzee
+- 👀 I’m interested in anything related to CyberSecurity ...
+- 🌱 I’m currently learning about everything related to CyberSecurity, IT Audit, and CyberSecurity Audit. etc...
+- 💞️ I’m looking to collaborate with anyone on anything related to the field of CyberSecurity, IT, and Programming Languages. etc ...
+- 📫 How to reach me ... 
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I know how to speak five languages!
 
 <!DOCTYPE html>
 <html lang="en">
@@ -38,15 +37,11 @@
     </header>
     <main>
         <section>
-            <h2>About Me</h2>
-            <p>This is where you describe yourself and your interests.</p>
-        </section>
-        <section>
-            <h2>Technologies I Work With</h2>
+            <h2>Languages</h2>
             <ul>
-                <li>Technology 1</li>
-                <li>Technology 2</li>
-                <li>Technology 3</li>
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+                <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+                <li>Technology 3</li> <img src=" " /> 
             </ul>
         </section>
         <section>
@@ -99,15 +94,6 @@
 
 
 
-
-
-- 👋 Hi, I’m @flashyzee
-- 👀 I’m interested in anything related to CyberSecurity ...
-- 🌱 I’m currently learning about everything related to CyberSecurity, IT Audit, and CyberSecurity Audit. etc...
-- 💞️ I’m looking to collaborate with anyone on anything related to the field of CyberSecurity, IT, and Programming Languages. etc ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I know how to speak five languages!
 
 <!---
 flashyzee/flashyzee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
