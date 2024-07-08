@@ -5,6 +5,7 @@
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I know how to speak five languages!
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -33,30 +34,23 @@
 </head>
 <body>
     <header>
-        <h1>GitHub Profile</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Languages</h2>
-            <ul>
+        <h2>Languages</h2>
+        <ul>
                 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
                 <img src=" " />
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
                 <img src=" " /> 
                 <img src=" " /> <img src=" " />
             </ul>
-        </section>
-
+    </header>
+    <main>
         <section>
             <h2>IDE's/Editors</h2>
             <ul>
-                <img src=" " />
-                <img src=" " />
-                <img src=" " />
-                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-                <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " />  <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " /> <img src=" " />
-                
-                
+                <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+                <img src=" https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+                <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+                <img src=" " /> <img src=" " /> <img src=" " />  
             </ul>
         </section>
         <section>
